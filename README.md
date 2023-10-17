@@ -10,13 +10,3 @@
 </div>
 
 
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-s.gif" alt="Microsoft Internet Explorer" />
-
-</div>
